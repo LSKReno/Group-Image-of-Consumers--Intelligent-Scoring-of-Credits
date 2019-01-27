@@ -1,6 +1,6 @@
 # Group-Image-of-Consumers--Intelligent-Scoring-of-Credits
 Digital China Innovation Contest, DCIC 2019  
-[data download](https://www.datafountain.cn/competitions/337/details/data-evaluation)
+[Data Download](https://www.datafountain.cn/competitions/337/details/data-evaluation)
 ### Background
 With the further promotion of the social credit system, the construction of its standardization is in rapid progress. Relative standards are released in succession, and multilevel standard system is urgently awaiting introduction, which includes credit service standard, credit data collection & service standard, credit restoration standard, urban credit standard, credit standard in the industry etc. Hopefully social credit standard system will be promoted at a high speed. Credit services in various industries of our society are deeply involved in advertisements, government affairs, finance, bicycle sharing, travelling, major investment projects, education, environmental protection, as well as the construction of social credit system, which is a systematic project. As an integral part of social enterprises, communication operators also need to have in place enterprise credit scoring system, boosting the credit system upgrading in the whole society. Meanwhile, our country is encouraging the data exchanges between the third-party credit services and our government, so as to strengthen the core competitiveness of governmental public credit information center.  
 
